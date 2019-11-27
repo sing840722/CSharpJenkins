@@ -16,6 +16,7 @@ pipeline {
             steps {
                 bat 'git checkout master'
 				bat 'git merge origin/dev'
+				bat 'git push origin/master'
             }
         }
     }
