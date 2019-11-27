@@ -15,6 +15,8 @@ pipeline {
         stage('Deploy') {
             steps {
 				echo 'Deploying...'
+				bat 'git checkout master'
+				bat 'git merge (env.BRANCH_NAME)'
 			}
         }
     }
