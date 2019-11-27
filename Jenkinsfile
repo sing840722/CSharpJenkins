@@ -20,7 +20,8 @@ pipeline {
     }
 	post {
 	always{
-		echo 'Finished'
+		echo 'I have Finished'
+		
 		}
 	}
 }
