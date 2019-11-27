@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                sh 'git checkout master'
+                bat 'git checkout master'
             }
         }
     }
