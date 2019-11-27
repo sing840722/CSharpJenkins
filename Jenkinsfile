@@ -15,7 +15,7 @@ pipeline {
         stage('Deploy') {
             steps {
 				echo 'Deploying...'
-				git url: "ssh://jenkins@sing840722:sing840722/CSharpJenkins.git",
+				git url: "ssh://jenkins@github.com:sing840722/CSharpJenkins.git",
 				credentialsId: 'sing840722',
 				branch: dev
 			}
