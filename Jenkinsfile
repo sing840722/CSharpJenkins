@@ -14,7 +14,6 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                bat 'git checkout master'
 				bat 'git merge origin/dev'
 				bat 'git config user.email "sing840722@gmail.com"'
 				bat 'git config user.name "sing840722"'
