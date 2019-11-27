@@ -18,7 +18,7 @@ pipeline {
 				bat 'git add .'
 				bat 'git commit -m "commit dev"'
 				bat 'git checkout master'
-				bat 'git merge (env.BRANCH_NAME)'
+				bat 'git merge env.BRANCH_NAME'
 			}
         }
     }
