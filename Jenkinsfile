@@ -21,7 +21,7 @@ pipeline {
 	post {
 	always{
 		echo 'I have Finished'
-		
+		deleteDir()
 		}
 	}
 }
