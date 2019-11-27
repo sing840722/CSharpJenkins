@@ -15,6 +15,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 bat 'git checkout master'
+				bat 'git merge dev'
             }
         }
     }
