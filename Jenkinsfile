@@ -16,7 +16,7 @@ pipeline {
             steps {
                 bat 'git checkout master'
 				bat 'git merge origin/dev'
-				bat 'git commit -m "Merge dev"'
+				bat 'git commit -m "Merge dev" --author=="sing840722@gmail.com"'
 				bat 'git push origin master'
             }
         }
