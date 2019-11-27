@@ -9,3 +9,14 @@ D:\Projects\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.As
 D:\Projects\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.AssemblyInfo.cs
 D:\Projects\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.dll
 D:\Projects\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.pdb
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\bin\Debug\netcoreapp3.0\CSharpJenkins.exe
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\bin\Debug\netcoreapp3.0\CSharpJenkins.deps.json
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\bin\Debug\netcoreapp3.0\CSharpJenkins.runtimeconfig.json
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\bin\Debug\netcoreapp3.0\CSharpJenkins.runtimeconfig.dev.json
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\bin\Debug\netcoreapp3.0\CSharpJenkins.dll
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\bin\Debug\netcoreapp3.0\CSharpJenkins.pdb
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.csprojAssemblyReference.cache
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.AssemblyInfoInputs.cache
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.AssemblyInfo.cs
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.dll
+D:\Program Files (x86)\Jenkins\workspace\CSharpJenkins\CSharpJenkins\obj\Debug\netcoreapp3.0\CSharpJenkins.pdb
