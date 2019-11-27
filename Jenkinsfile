@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-				dotnet build
+				sh 'dotnet build'
             }
         }
         stage('Test') {
