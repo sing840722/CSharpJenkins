@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sing\\.nuget\\packages\\": {},
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
     "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CSharpJenkins\\CSharpJenkins\\CSharpJenkins.csproj",
+      "projectUniqueName": "D:\\Program Files (x86)\\Jenkins\\workspace\\CSharpJenkins\\CSharpJenkins\\CSharpJenkins.csproj",
       "projectName": "CSharpJenkins",
-      "projectPath": "D:\\Projects\\CSharpJenkins\\CSharpJenkins\\CSharpJenkins.csproj",
-      "packagesPath": "C:\\Users\\Sing\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\CSharpJenkins\\CSharpJenkins\\obj\\",
+      "projectPath": "D:\\Program Files (x86)\\Jenkins\\workspace\\CSharpJenkins\\CSharpJenkins\\CSharpJenkins.csproj",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "outputPath": "D:\\Program Files (x86)\\Jenkins\\workspace\\CSharpJenkins\\CSharpJenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
