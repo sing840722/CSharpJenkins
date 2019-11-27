@@ -19,10 +19,7 @@ pipeline {
         stage('Deploy') {
             steps {
 				echo 'Deploying...'
-				bat 'git add .'
-				bat 'git commit -m "commit dev"'
-				bat 'git checkout master'
-				bat 'git merge getGitBranchName()'
+				checkout scm
 			}
         }
     }
