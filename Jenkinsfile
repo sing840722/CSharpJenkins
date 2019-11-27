@@ -17,7 +17,6 @@ pipeline {
 				bat 'git merge origin/dev'
 				bat 'git config user.email "sing840722@gmail.com"'
 				bat 'git config user.name "sing840722"'
-				bat 'git commit -m "Merge dev"'
 				bat 'git push origin master'
             }
         }
